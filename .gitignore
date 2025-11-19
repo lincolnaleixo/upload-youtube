@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# OAuth credentials - DO NOT COMMIT
+client_secret.json
+token.json
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Environment
+.env
+.venv
+env/
+venv/
